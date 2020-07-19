@@ -4,5 +4,5 @@
 
 int main(void)
 {
-printf("Hi, I am minjun");
+printf("Hi, I am minjun\n");
 }
