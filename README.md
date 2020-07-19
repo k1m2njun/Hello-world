@@ -1,2 +1,8 @@
 # Hello-world
-Blah blah
+
+#include <stdio.h>
+
+int main(void)
+{
+printf("Hi, I am minjun");
+}
